@@ -1,3 +1,5 @@
+//based on drawCircle of Learning Processing @shiffman
+
 float theta = 0.0;
 int radio = 10; 
 int factor = 100;
